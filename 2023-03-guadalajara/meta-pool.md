@@ -76,3 +76,55 @@ Meta Pool se reserva el derecho de cerrar el Programa Open Web House Bounty en c
 
 
 # Anexo técnico 
+## What is stNEAR?
+stNEAR Token is a collateral that represents staked NEAR’s plus staking rewards. Through Meta Pool you can get stNEAR.
+
+stNEAR is based on NEAR Protocol’s standard for fungible tokens: NEP-141.
+
+Name: Staked NEAR
+Ticker: stNEAR
+Standard: NEP-141
+Max supply: Undefined.
+Rainbow bridge: Yes.
+Smart contract address for mainnet: meta-pool.near 
+Smart contract address for testnet: meta-v2.pool.testnet
+Smart contract address for Aurora: 0x07f9f7f963c5cd2bbffd30ccfb964be114332e30
+Smart contract address for Aurora (testnet): 0x2137df2e54abd6bF1c1a8c1739f2EA6A8C15F144
+
+## How to integrate stNEAR on your project.
+stNEAR can be used at Layer-1 of NEAR Protocol or in the Aurora Network, a Layer 2 Ethereum Virtual Machine running over NEAR migrating your tokens through the rainbow bridge. 
+
+Taking this into consideration, you can develop a solution for Layer 1 using RUST or Assembly Script as suggested coding languages, or you can use Solidity in Aurora Network to develop a solution.
+
+These are the documentation we suggest you and your team should read to learn about NEAR Protocol, fungible tokens and stNEAR token:
+
+NEAR Docs: https://docs.near.org/docs/develop/basics/getting-started
+NEAR 101: https://www.youtube.com/watch?v=m6LJUpPPHoE
+Fungible Token | NEAR Protocol https://nomicon.io/Standards/Tokens/FungibleToken/Core
+Project Aurora (EVM) | NEAR Protocol https://docs.near.org/docs/develop/eth/evm
+Meta Pool Gitbook https://metapool.gitbook.io/master/tutorials-1/meta-pool-on-near
+Meta Pool GitHub https://github.com/Narwallets/meta-pool / https://github.com/Meta-Pool
+
+Want extra information? Get in touch with us:
+- Discord: https://discord.gg/qHC9KnJXHM
+
+## Projects using stNEAR
+This is a series of projects that use stNEAR to give utility for their DApps.
+
+NEAR Protocol
+Meta Pool: metapool.app
+Meta Yield: metayield.app
+Ref Finance: ref.finance
+Burrow Cash: app.burrow.cash
+Jumbo Exchange: jumbo.exchange
+Octopus Network: oct.network
+
+Aurora Network
+Trisolaris: trisolaris.io
+WannaSwap: wannaswap.finance
+Polaris Finance: polarisfinance.io
+Bastion:bastionprotocol.com/ 
+Aurigami: aurigami.finance/ 
+
+You can look at more information about Meta Pool in the gitbook: https://metapool.gitbook.io/master/
+
