@@ -92,39 +92,39 @@ Smart contract address for Aurora: 0x07f9f7f963c5cd2bbffd30ccfb964be114332e30
 Smart contract address for Aurora (testnet): 0x2137df2e54abd6bF1c1a8c1739f2EA6A8C15F144
 
 ## How to integrate stNEAR on your project.
-stNEAR can be used at Layer-1 of NEAR Protocol or in the Aurora Network, a Layer 2 Ethereum Virtual Machine running over NEAR migrating your tokens through the rainbow bridge. 
+stNEAR se puede usar en la capa-1 de NEAR Protocol o en la red Aurora (EVM), una máquina virtual Ethereum de capa 2 que se trabaja sobre NEAR Protocol.
 
-Taking this into consideration, you can develop a solution for Layer 1 using RUST or Assembly Script as suggested coding languages, or you can use Solidity in Aurora Network to develop a solution.
+Teniendo esto en cuenta, puede desarrollar una solución para la capa 1 utilizando usando RUST o Javascript, o puede usar Solidity en la red Aurora para desarrollar una solución.
 
-These are the documentation we suggest you and your team should read to learn about NEAR Protocol, fungible tokens and stNEAR token:
+Esta es la documentación que sugerimos que usted y su equipo deben leer para aprender sobre NEAR Protocol, Meta Pool, tokens fungibles y stNEAR:
 
-NEAR Docs: https://docs.near.org/docs/develop/basics/getting-started
-NEAR 101: https://www.youtube.com/watch?v=m6LJUpPPHoE
-Fungible Token | NEAR Protocol https://nomicon.io/Standards/Tokens/FungibleToken/Core
-Project Aurora (EVM) | NEAR Protocol https://docs.near.org/docs/develop/eth/evm
-Meta Pool Gitbook https://metapool.gitbook.io/master/tutorials-1/meta-pool-on-near
-Meta Pool GitHub https://github.com/Narwallets/meta-pool / https://github.com/Meta-Pool
+* NEAR Docs: https://docs.near.org/docs/develop/basics/getting-started
+* NEAR 101: https://www.youtube.com/watch?v=m6LJUpPPHoE
+* Fungible Token | NEAR Protocol https://nomicon.io/Standards/Tokens/FungibleToken/Core
+* Project Aurora (EVM) | NEAR Protocol https://docs.near.org/docs/develop/eth/evm
+* Meta Pool Gitbook https://metapool.gitbook.io/master/tutorials-1/meta-pool-on-near
+* Meta Pool GitHub https://github.com/Narwallets/meta-pool / https://github.com/Meta-Pool
 
-Want extra information? Get in touch with us:
+Quieres más soporte? unete al discord
 - Discord: https://discord.gg/qHC9KnJXHM
 
-## Projects using stNEAR
-This is a series of projects that use stNEAR to give utility for their DApps.
+## Proyectos usando stNEAR
+
 
 NEAR Protocol
-Meta Pool: metapool.app
-Meta Yield: metayield.app
-Ref Finance: ref.finance
-Burrow Cash: app.burrow.cash
-Jumbo Exchange: jumbo.exchange
-Octopus Network: oct.network
+- Meta Pool: metapool.app
+- Meta Yield: metayield.app
+- Ref Finance: ref.finance
+- Burrow Cash: app.burrow.cash
+- Jumbo Exchange: jumbo.exchange
+-Octopus Network: oct.network
 
 Aurora Network
-Trisolaris: trisolaris.io
-WannaSwap: wannaswap.finance
-Polaris Finance: polarisfinance.io
-Bastion:bastionprotocol.com/ 
-Aurigami: aurigami.finance/ 
+- Trisolaris: trisolaris.io
+- WannaSwap: wannaswap.finance
+- Polaris Finance: polarisfinance.io
+- Bastion: bastionprotocol.com/ 
+- Aurigami: aurigami.finance/ 
 
-You can look at more information about Meta Pool in the gitbook: https://metapool.gitbook.io/master/
+Puedes encontrar más información el gitbook de Meta Pool: https://metapool.gitbook.io/master/
 
