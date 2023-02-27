@@ -48,6 +48,21 @@ Si no sabes por donde empezar estas ideas fueran generadas y sugeridas por el eq
 - **NEAR Social <> Meta Yield:** Comparta las últimas actualizaciones de su campaña de Meta Yield en un widget de near.social.
 - **Sistema de notificación para los servicios de Meta Pool:** Notifique a los usuarios sobre actualizaciones en sus contratos inteligentes.
 - **Recompensas en stable coins:** Bóveda que paga las recompensas obtenidos en stNEAR por stable coins. (mensualmente o en un período de tiempo predefinido)
-- **Bóvedas de DeFi protegidas por capital:** El usuario deposita $stNEAR durante 3, 6, 9, 12 meses y las recompensas de participación se utilizan para invertir en otras plataformas de DeFi para aumentar el rendimiento (Pembrock, SpinFi, otro)
+- **Bóvedas de DeFi protegidas por tokens:** El usuario deposita $stNEAR durante 3, 6, 9, 12 meses y las recompensas de participación se utilizan para invertir en otras plataformas de DeFi para aumentar el rendimiento (Pembrock, SpinFi, otro)
+
+
 
 ## Preguntas frequentes
+
+## Inelegibilidad de proyectos
+Proyectos en los que no estamos interesados en apoyar:
+
+- Iniciativas que están relacionadas con juegos de azar.
+- Proyectos que solo utilizan stNEAR como método de pago, sin darle utilidad.
+
+## Descargo de responsabilidad
+El contrato inteligente de Meta Pool ha sido auditado por Blocksec.
+Meta Pool se reserva el derecho de cerrar el Programa Open Web House Bounty en cualquier momento sin previo aviso. Sin embargo, tenga en cuenta que se respetarán los pagos acordadas bilateralmente antes de eso.
+
+
+# Anexo técnico 
