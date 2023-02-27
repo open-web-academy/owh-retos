@@ -77,15 +77,14 @@ Meta Pool se reserva el derecho de cerrar el Programa Open Web House Bounty en c
 
 # Anexo técnico 
 ## What is stNEAR?
-stNEAR Token is a collateral that represents staked NEAR’s plus staking rewards. Through Meta Pool you can get stNEAR.
+Stnear Token es una colateral que representa tus tokens más las recompensas de Staking en NEAR.
 
-stNEAR is based on NEAR Protocol’s standard for fungible tokens: NEP-141.
 
-Name: Staked NEAR
+Nombre: Staked NEAR
 Ticker: stNEAR
 Standard: NEP-141
-Max supply: Undefined.
-Rainbow bridge: Yes.
+Suministro máximo: Indefinido.
+Rainbow bridge: Sí.
 Smart contract address for mainnet: meta-pool.near 
 Smart contract address for testnet: meta-v2.pool.testnet
 Smart contract address for Aurora: 0x07f9f7f963c5cd2bbffd30ccfb964be114332e30
