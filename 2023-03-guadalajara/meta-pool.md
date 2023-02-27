@@ -74,9 +74,10 @@ Proyectos en los que no estamos interesados en apoyar:
 El contrato inteligente de Meta Pool ha sido auditado por Blocksec.
 Meta Pool se reserva el derecho de cerrar el Programa Open Web House Bounty en cualquier momento sin previo aviso. Sin embargo, tenga en cuenta que se respetarán los pagos acordadas bilateralmente antes de eso.
 
-
+  
+  
 # Anexo técnico 
-## What is stNEAR?
+## Que es stNEAR?
 Stnear Token es una colateral que representa tus tokens más las recompensas de Staking en NEAR.
 
 
@@ -90,7 +91,7 @@ Smart contract address for testnet: meta-v2.pool.testnet
 Smart contract address for Aurora: 0x07f9f7f963c5cd2bbffd30ccfb964be114332e30
 Smart contract address for Aurora (testnet): 0x2137df2e54abd6bF1c1a8c1739f2EA6A8C15F144
 
-## How to integrate stNEAR on your project.
+## Cómo integrar stNEAR en tu proyecto.
 stNEAR se puede usar en la capa-1 de NEAR Protocol o en la red Aurora (EVM), una máquina virtual Ethereum de capa 2 que se trabaja sobre NEAR Protocol.
 
 Teniendo esto en cuenta, puede desarrollar una solución para la capa 1 utilizando usando RUST o Javascript, o puede usar Solidity en la red Aurora para desarrollar una solución.
