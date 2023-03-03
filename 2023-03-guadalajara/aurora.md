@@ -13,6 +13,7 @@ Aurora Network es la Ethereum Virtual Machine (EVM) montada encima de la infraes
 - Desplegar contratos inteligentes realizados en Solidity con la misma experiencia que en Ethereum.
 - Utilizar billeteras conocidas como Meta Mask.
 - Pagar bajos costos de transacción.
+- Utilizando la plataforma aurora.plus obtienes 50 transacciones gratuitas al mes
 
 ## Solución esperada
 
@@ -46,6 +47,7 @@ Dentro de la red de Aurora aquí hay un listado de ideas sugeridas:
 * **¿Qué es Aurora?** 
 * **¿Cómo funcion Aurora?**
 * **¿Por qué Aurora y no otra EVM (Ethereum, BNB chain, otra)?**
+* **¿Por qué Aurora utiliza $ETH para las fees?**
   
 
 ## Inelegibilidad de proyectos
@@ -56,6 +58,7 @@ Proyectos en los que no estamos interesados en apoyar:
 # Anexo técnico 
 ## ¿Dónde puedo aprender acerca de Aurora?
 
+* Sitio oficial Aurora: https://aurora.dev/
 * Aurora Docs: https://doc.aurora.dev/
 * Ejemplos de contratos en Solidity: https://solidity-by-example.org/
 * Desplegando un contrato inteligente en Aurora: https://www.youtube.com/watch?v=SNuKbeMkQnU
@@ -73,4 +76,4 @@ Aurora Network
 - Bastion: bastionprotocol.com/ 
 - Aurigami: aurigami.finance/ 
 
-Conocé más proyectos aquí: 
+Conocé más proyectos aquí: https://aurora.dev/ecosystem
