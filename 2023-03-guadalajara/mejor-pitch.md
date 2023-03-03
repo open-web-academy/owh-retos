@@ -7,15 +7,16 @@
 
 ## Introducción
 
-Da el mejor pitch durante la presentación final y gana $500 USD. Considera los siguientes:
+Da el mejor pitch durante la presentación final y gana *500 USDC*. Considera los siguientes:
 
-- Tienes hasta 5 minutos para presentar. 
-- Adicional se darán 5 minutos para presentar un demo de tu proyecto
+- Tienes hasta 5 minutos para presentar tu pitch. 
 - Presenta la idea clara y consistente.
 - Muestra tu pitch con la elocuencia y oratoria necesaria.
 - Demuestra datos duros y que aporten valor para consolidar tu idea.
 - Levanta la emoción del público por apoyar tu idea.
 - Haz un llamada a la acción al terminar tu pitch.
+ 
+Adicional se darán 5 minutos para realizar un demo de tu proyecto
 
 
 ## Criterios de evaluación y premios
