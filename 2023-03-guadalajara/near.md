@@ -1,4 +1,4 @@
-# Reto Aurora Network
+# Reto NEAR Protocol
 
 
 ![image](img/near-protocol.jpeg)
