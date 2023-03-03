@@ -64,18 +64,16 @@ Proyectos en los que no estamos interesados en apoyar:
 * Aurora Docs: https://doc.aurora.dev/
 * Ejemplos de contratos en Solidity: https://solidity-by-example.org/
 * Desplegando un contrato inteligente en Aurora: https://www.youtube.com/watch?v=SNuKbeMkQnU
-* Project Aurora (EVM) | NEAR Protocol https://docs.near.org/docs/develop/eth/evm
-
 ¿Quieres más ayuda? unete al telegram de Aurora Latam
 - Aurora Latam: https://discord.gg/qHC9KnJXHM
 
 ## Proyectos corriendo sobre Aurora Network
 
 Aurora Network
-- Trisolaris: trisolaris.io
-- WannaSwap: wannaswap.finance
-- Polaris Finance: polarisfinance.io
-- Bastion: bastionprotocol.com/ 
-- Aurigami: aurigami.finance/ 
+- Trisolaris: https://trisolaris.io
+- WannaSwap: https://wannaswap.finance
+- Polaris Finance: https://polarisfinance.io
+- Bastion: https://bastionprotocol.com/ 
+- Aurigami: https://aurigami.finance/ 
 
-Conocé más proyectos aquí: https://aurora.dev/ecosystem
+Conoc más proyectos aquí: https://aurora.dev/ecosystem

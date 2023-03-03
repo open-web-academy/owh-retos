@@ -75,4 +75,4 @@ Proyectos en los que no estamos interesados en apoyar:
 
 ## Proyectos corriendo sobre NEAR Protocol
 
-Conocé el listado completo aquí: https://aurora.dev/ecosystem
+Conoc el listado completo aquí: https://aurora.dev/ecosystem
