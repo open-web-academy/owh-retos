@@ -1,5 +1,6 @@
 # Reto Meta Pool
 
+![image](img/meta-pool.webp)
 * Evento: Open Web House Guadalajara 2023
 * Fecha de publicación: 27 de febrero del 2023.
 * Fecha de actualización: NA
