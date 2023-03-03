@@ -1,7 +1,7 @@
 # Reto Aurora Network
 
 
-![image](2023-03-guadalajara/img/aurora.jpeg)
+![image](img/aurora.jpeg)
 * Evento: Open Web House Guadalajara 2023
 * Fecha de publicación: 1 de marzo del 2023.
 * Fecha de actualización: NA
