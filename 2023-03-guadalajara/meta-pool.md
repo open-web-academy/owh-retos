@@ -45,7 +45,7 @@ Si no sabes por donde empezar estas ideas fueran generadas y sugeridas por el eq
 - **Aplicación móvil para rastrear activos:** una aplicación que está disponible en PlayStore e iOs que hace un seguimiento claro de los activos de Meta Pool y su valor en el tiempo.
 - **DCA de stNEAR:** Cambie una cantidad fija de USDC a stNEAR todos los meses durante 1 año para cuidar el saldo de su cartera.
 - **Aprendizaje gamificado para Liquid Staking:** Otorga recompensas e insignias mientras aprendes sobre liquid staking y DeFi.
-- **Recetas DeFi de $stNEAR:** Una interfaz de usuario simple para mostrar las opciones de dónde usar $stNEAR en el ecosistema DeFi (Prestamo, intercambio, farmeo y proporcionar liquidez).
+- **Recetas DeFi de $stNEAR:** Una interfaz de usuario simple para mostrar las opciones de dónde usar $stNEAR en el ecosistema DeFi (Préstamo, intercambio, farmeo y proporcionar liquidez).
 - Meta Tamagotchi: Compra tu Meta-Gotchi (NFT) con $stNEAR. Haz que baile, juegue o alimente con tokens $META.
 - **Meta Tanda:** Un grupo de personas inicia su tenencia de tokens con base en las contribuciones periodicas de la comunidad.
 - **Baúl de ahorros en stNEAR:** Ahorre $stNEAR diariamente y gane más $META en recompensas
@@ -102,7 +102,6 @@ Esta es la documentación que sugerimos que usted y su equipo deben leer para ap
 * NEAR Docs: https://docs.near.org/docs/develop/basics/getting-started
 * NEAR 101: https://www.youtube.com/watch?v=m6LJUpPPHoE
 * Fungible Token | NEAR Protocol https://nomicon.io/Standards/Tokens/FungibleToken/Core
-* Project Aurora (EVM) | NEAR Protocol https://docs.near.org/docs/develop/eth/evm
 * Meta Pool Gitbook https://metapool.gitbook.io/master/tutorials-1/meta-pool-on-near
 * Meta Pool GitHub https://github.com/Narwallets/meta-pool / https://github.com/Meta-Pool
 
