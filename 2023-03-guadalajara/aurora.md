@@ -65,7 +65,7 @@ Proyectos en los que no estamos interesados en apoyar:
 * Ejemplos de contratos en Solidity: https://solidity-by-example.org/
 * Desplegando un contrato inteligente en Aurora: https://www.youtube.com/watch?v=SNuKbeMkQnU
 ¿Quieres más ayuda? unete al telegram de Aurora Latam
-- Aurora Latam: https://discord.gg/qHC9KnJXHM
+- Aurora Latam: https://t.me/AuroraLatam
 
 ## Proyectos corriendo sobre Aurora Network
 
