@@ -7,7 +7,7 @@
 
 ## Introducción
 
-Da el mejor pitch durante la presentación final y gana *500 USDC*. Considera los siguientes:
+Da el mejor pitch durante la presentación final y gana *250 USDC*. Considera los siguientes:
 
 - Tienes hasta 5 minutos para presentar tu pitch. 
 - Presenta la idea clara y consistente.
@@ -25,10 +25,10 @@ El puntaje asignado por el equipo de Meta Pool a las soluciones presentas durant
 
 | Nivel                 | Criterios de aceptación                                                                                                                                                                                                                                          | Premio   |
 |-----------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|
-| Pitch de alto impacto | -Da un pitch claro y con elocuencia -Utiliza el material de apoyo (Diapositivas u otro) que apoya a sustentar la idea. -Explica de manera clara su propuesta de valor -Crea una atmosfera de emoción entre el público -Genera un llamado a la acción al terminar | 500 USDC |
+| Pitch de alto impacto | -Da un pitch claro y con elocuencia -Utiliza el material de apoyo (Diapositivas u otro) que apoya a sustentar la idea. -Explica de manera clara su propuesta de valor -Crea una atmosfera de emoción entre el público -Genera un llamado a la acción al terminar | 250 USDC |
 
 
-- Bolsa máxima de premios: 500 USDC
+- Bolsa máxima de premios: 250 USDC
 - Esquema de pago: 10-15 días posterior al evento
 - En caso de que las propuestas no alcancen el criterio mínimo de aceptación, el reto se declarará sin ganadores.
 - Existe 1 solo ganador en estra categoría.
