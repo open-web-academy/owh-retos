@@ -12,6 +12,12 @@ Un proyecto en muchas veces se debe a la comunidad que tiene por detras. Lleva a
 - Crea la comunidad en twitter, telegram y/o discord. 
 - Consigue la mayor cantidad de seguidores en estas redes sociales.
 - Planea el primer meetup virtual o presencial con tu comunidad para presentar tu proyecto.
+
+Solo es posible participar con cuentas nuevas creadas durante el Open Web House.
+
+## Reglas
+
+- Está prohibido la utilización de cualquier tipo de bot o sistema que incremente de manera artificial el numero de seguidores. En caso de realizarse será descalificado de este reto.
  
 
 ## Criterios de evaluación y premios

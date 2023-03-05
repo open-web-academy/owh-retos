@@ -11,6 +11,7 @@
 |---|-------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|------------------|
 | 1 | Construyendo valor en NEAR Protocol | Construye una aplicación decentralizada utilizando la tecnología de NEAR.  Valida su utilidad con tus usuarios objetivos.   | 1000 USDC        |
 | 2 | Construyendo valor en Aurora        | Construye una aplicación decentralizada utilizando la tecnología de Aurora.  Valida su utilidad con tus usuarios objetivos. | 1000 USDC        |
-| 3 | Mejor Pitch del evento              | Presenta el mejor pitch en el Open Web House.                                                                               | 500 USDC         |
+| 3 | Mejor Pitch del evento              | Presenta el mejor pitch en el Open Web House.                                                                               | 250 USDC         |
 | 4 | Construyendo valor con Meta Pool    | Colabora con Meta Pool en crear la siguiente generación de plataformas de staking liquido.                                  | 1000 USDC        |
+| 5 | Comunidad primero             | Haz crecer hasta la luna la comunidad de tu proyecto.                                                                               | 250 USDC         |
 | - | -  | Total                                 | 3500 USDC        |
