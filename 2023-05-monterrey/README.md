@@ -1,6 +1,6 @@
 # Retos Open Web House Guadalajara 
 
-![image|500x500](img/openwebhouse-gdl.jpeg)
+![image|500x500](im/../img/owh-monterrey.jpeg)
 
 * Evento: Open Web House Monterrey 2023
 * Fecha de publicación: 15 de mayo del 2023.
@@ -9,9 +9,10 @@
 ## Retos
 | # | Reto                                | Descripción                                                                                                                 | Bolsa de premios |
 |---|-------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|------------------|
-| 1 | Construyendo valor en NEAR Protocol | Construye una aplicación decentralizada utilizando la tecnología de NEAR.  Valida su utilidad con tus usuarios objetivos.   | 1000 USDC        |
-| 2 | Construyendo valor en Aurora        | Construye una aplicación decentralizada utilizando la tecnología de Aurora.  Valida su utilidad con tus usuarios objetivos. | 1000 USDC        |
-| 3 | Mejor Pitch del evento              | Presenta el mejor pitch en el Open Web House.                                                                               | 250 USDC         |
-| 4 | Construyendo valor con Meta Pool    | Colabora con Meta Pool en crear la siguiente generación de plataformas de staking liquido.                                  | 1000 USDC        |
-| 5 | Comunidad primero             | Haz crecer hasta la luna la comunidad de tu proyecto.                                                                               | 250 USDC         |
-| - | -  | Total                                 | 3500 USDC        |
+| 1 | BOS is multichain | Construye un gateway que te permita tener un blockchain descentralizado para cualquier cadena   | 700 USDC        |
+| 2 | Comunidad primero             | Haz crecer hasta la luna la comunidad de tu proyecto.                                                                               | 200 USDC         |
+| 3 |    EVM is BOS     | Construye un widget para una aplicación corriendo dentro de un EVM en BOS | 700 USDC        |
+| 4 | Mejor Pitch del evento              | Presenta el mejor pitch en el Open Web House.                                                                               | 200 USDC         |
+| 5 | Construyendo valor con Meta Pool    | Colabora con Meta Pool en crear la siguiente generación de plataformas de staking liquido.                                  | 500 USDC        |
+| 6 |    NEAR is BOS     | Construye un widget para una aplicación corriendo dentro de NEAR Protocol | 700 USDC        |
+| - | -  | Total                                 | 3000 USDC        |
