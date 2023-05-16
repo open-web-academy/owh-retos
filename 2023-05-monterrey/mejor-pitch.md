@@ -32,6 +32,7 @@ El puntaje asignado por el equipo de Meta Pool a las soluciones presentas durant
 - Esquema de pago: 10-15 días posterior al evento
 - En caso de que las propuestas no alcancen el criterio mínimo de aceptación, el reto se declarará sin ganadores.
 - Existe 1 solo ganador en estra categoría.
+- Es necesario que tu proyecto esté registrado en NEAR Horizon para participar: https://near.org
 
 
 

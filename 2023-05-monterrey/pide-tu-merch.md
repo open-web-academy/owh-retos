@@ -7,15 +7,16 @@
 
 ## Introducción
 
-Tenemos varios regalos para ti por haber asistido al Open Web House, muchos de ellos en ediciones únicos que no se volverán a imprimir en otros eventos. Aquí podrás saber como reclamarlos.
+Tenemos varios regalos para ti por haber asistido al Open Web House, muchos de ellos en ediciones únicas que no se volverán a imprimir en otros eventos. Aquí podrás saber como reclamarlos.
 
-## Pasos a completar para 
+## Pasos a completar para recibir merch
 
 - Crea una cuenta de NEAR Protocol. Pide tú codigo QR en el evento para crear una.
-- Unete al Discord de Open Web Academy. Postea una foto #🏠-ow-house de que estás en el evento: http://discord.gg/XhGJXszkyc
-- Crea tu perfil de NEAR Social. Postea una foto de que como te la estás pasando en el Open Web House: http://near.social
+- Unete al Discord de Open Web Academy. Postea una foto en #🏠-ow-house de que estás en el Open Web House: http://discord.gg/XhGJXszkyc
+- Crea tu perfil de NEAR Social. Haz un posteo con foto de que cómo te la estás pasando en el Open Web House: http://near.social
 - Verifica tu cuenta de NEAR Protocol en I-am-human. Te permitirá votar en el NEAR Digital Collective: http://i-am-human.app.
  
+ Una vez completado, acercate a la mesa de merch para reclamar. 
 
 ## ¿Cómo verificar tu cuenta de I-am-human?
 
@@ -23,10 +24,4 @@ Este servicio emitirá un Soul Bound Token (SBT) una vez que hayas verificado tu
 
 
 ![image](img/iamhuman.png)
-
-## Preguntas frequentes
-
-* **¿Puedo usar otras redes sociales?** Sí, solo indica cuales serán usadas. 
-* **¿El meetup tiene que ser virtual o presencial?** Cualquiera que tu elijas. 
-* **¿El meetup tiene que ser en las fechas del Open Web House?** No, se puede realizar de manera posterior. Lo que se tiene que entregar es la fecha y publicidad del evento (Eventbrite, post, etc).
 

@@ -32,13 +32,14 @@ El puntaje asignado a las soluciones presentadas durante el evento se evaluarán
 
 | Nivel                        | Criterios de aceptación                                                                                                                                                                                        | Premio    |
 |------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|
-| Listo para usarse y validado | * Prototipo desplegado en testnet y cerca de mainnet * Se hizo una iteración para probar su propuesta de valor ante los usuarios. *Hace uso de BOS y NEAR Protocol dentro de su infraestructura para construir su propuesta de valor.   | 800 USDC |
+| Listo para usarse y validado | * Prototipo desplegado en testnet y cerca de mainnet * Se hizo una iteración para probar su propuesta de valor ante los usuarios. *Hace uso de BOS y NEAR Protocol dentro de su infraestructura para construir su propuesta de valor.   | 750 USDC |
 | Desplegado en testnet        | * Prototipo desplegado en testnet. *Tiene un mercado y propuesta de valor definido. *Hace uso de BOS y NEAR Protocol dentro de su infraestructura para construir su propuesta de valor.                                              | 300 USDC  |
 | Idea y simulación            | *Presenta un simulador (mockup o diseño de UI) que ayude a valorar la idea. *Hace uso de BOS y NEAR Protocol dentro de su infraestructura para construir su propuesta de valor.                                                     | 100 USDC  |
 
-- Bolsa máxima de premios: 800 USDC
+- Bolsa máxima de premios: 750 USDC
 - Esquema de pago: 10-15 días posterior al evento
 - En caso de que las propuestas no alcancen el criterio mínimo de aceptación, el reto se declarará sin ganadores.
+- Es necesario que tu proyecto esté registrado en NEAR Horizon para participar: https://near.org
 
 ## Ideas sugeridas
 
