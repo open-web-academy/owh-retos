@@ -2,9 +2,10 @@
 
 
 ![image](img/near-bos.png)
-* Evento: Open Web House Guadalajara 2023
-* Fecha de publicación: 1 de marzo del 2023.
+* Evento: Open Web House Monterrey 2023
+* Fecha de publicación: 15 de mayo del 2023.
 * Fecha de actualización: NA
+  
   
 
 ## Introducción
