@@ -10,11 +10,11 @@
 
 Meta Pool es un proyecto de código abierto centrado en la comunidad, mantenido por un equipo central que está lanzando actualizaciones y nuevos productos al ecosistema Web 3.
 
-Este programa busca apoyar a los participantes de Open Web House a que descubren formas innovadoras de integrar el token líquido de Meta Pool, $stNEAR, y los servicios de Meta Pool existentes dentro ecosistema NEAR y Aurora.
+Este programa busca apoyar a los participantes de Open Web House a que descubren formas innovadoras de integrar el token líquido de Meta Pool, stNEAR, y los servicios de Meta Pool existentes dentro ecosistema NEAR y Aurora.
 
 ## Solución esperada
 
-Cree una solución que integre el token $stNEAR, o cualquier otro servicio de Meta Pool, usándolo como una propuesta de valor.
+Cree una solución que integre el token stNEAR, o cualquier otro servicio de Meta Pool, usándolo como una propuesta de valor.
 
 Algunos ejemplos de soluciones de finanzas descentralizadas (DeFi) que pueden usar stNEAR son:
 
@@ -46,21 +46,21 @@ Si no sabes por donde empezar estas ideas fueran generadas y sugeridas por el eq
 - **Aplicación móvil para rastrear activos:** una aplicación que está disponible en PlayStore e iOs que hace un seguimiento claro de los activos de Meta Pool y su valor en el tiempo.
 - **DCA de stNEAR:** Cambie una cantidad fija de USDC a stNEAR todos los meses durante 1 año para cuidar el saldo de su cartera.
 - **Aprendizaje gamificado para Liquid Staking:** Otorga recompensas e insignias mientras aprendes sobre liquid staking y DeFi.
-- **Recetas DeFi de $stNEAR:** Una interfaz de usuario simple para mostrar las opciones de dónde usar $stNEAR en el ecosistema DeFi (Préstamo, intercambio, farmeo y proporcionar liquidez).
-- Meta Tamagotchi: Compra tu Meta-Gotchi (NFT) con $stNEAR. Haz que baile, juegue o alimente con tokens $META.
+- **Recetas DeFi de stNEAR:** Una interfaz de usuario simple para mostrar las opciones de dónde usar stNEAR en el ecosistema DeFi (Préstamo, intercambio, farmeo y proporcionar liquidez).
+- **Meta Tamagotchi:** Compra tu Meta-Gotchi (NFT) con stNEAR. Haz que baile, juegue o alimente con tokens $META.
 - **Meta Tanda:** Un grupo de personas inicia su tenencia de tokens con base en las contribuciones periodicas de la comunidad.
-- **Baúl de ahorros en stNEAR:** Ahorre $stNEAR diariamente y gane más $META en recompensas
+- **Baúl de ahorros en stNEAR:** Ahorre stNEAR diariamente y gane más $META en recompensas
 - **NEAR Social <> Meta Yield:** Comparta las últimas actualizaciones de su campaña de Meta Yield en un widget de near.social.
 - **Sistema de notificación para los servicios de Meta Pool:** Notifique a los usuarios sobre actualizaciones en sus contratos inteligentes.
 - **Recompensas en stable coins:** Bóveda que paga las recompensas obtenidos en stNEAR por stable coins. (mensualmente o en un período de tiempo predefinido)
-- **Bóvedas de DeFi protegidas por tokens:** El usuario deposita $stNEAR durante 3, 6, 9, 12 meses y las recompensas de participación se utilizan para invertir en otras plataformas de DeFi para aumentar el rendimiento (Pembrock, SpinFi, otro)
+- **Bóvedas de DeFi protegidas por tokens:** El usuario deposita stNEAR durante 3, 6, 9, 12 meses y las recompensas de participación se utilizan para invertir en otras plataformas de DeFi para aumentar el rendimiento (Pembrock, SpinFi, otro)
 
 
 ## Preguntas frequentes
 
-* **¿Qué es Meta Pool?** Es una solución de staking líquido que permite a los usuarios tener un activo compuesto ($stNEAR) que representa tanto: el stake y sus recompensas.
+* **¿Qué es Meta Pool?** Es una solución de staking líquido que permite a los usuarios tener un activo compuesto (stNEAR) que representa tanto: el stake y sus recompensas.
 * **¿Qué quiere Meta Pool que sea desarrollado?** Un prototipo funcional en TestNet o MainNet con un mercado o grupo de usuarios validado.
-* **¿Cómo debería funcionar?** Utilizando un servicio de Meta Pool como el token de $stNEAR y/o $META en una o ambas redes: Aurora o NEAR Protocol; Meta Bond, Meta Vote, Meta Staking Vote o cualquier otro que beneficie directamente a los usuarios de Meta Pool.
+* **¿Cómo debería funcionar?** Utilizando un servicio de Meta Pool como el token de stNEAR y/o $META en una o ambas redes: Aurora o NEAR Protocol; Meta Bond, Meta Vote, Meta Staking Vote o cualquier otro que beneficie directamente a los usuarios de Meta Pool.
 * **¿Se puede desarrollar la solución en la red Aurora (Solidity)?** Sí, se puede desarrollar para Near o Aurora Network. Pregunte si está proponiendo el uso de otras redes blockchain.
 * **¿La solución debe estar en Mainnet o Testnet?** Le recomendamos que se lance en Mainnet, ahora o más tarde. Sin embargo, dado a que el tiempo del Open Web House es limitado, esperamos que por lo menos se logre en testnet.
 * **¿La solución propuesta debe ser una solución de finanzas descentralizadas (DEFI)?** No es obligatorio. Puede proponer un proyecto que correctamente no sea una solución defi.

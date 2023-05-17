@@ -32,8 +32,8 @@ El puntaje asignado por el equipo de Aurora Latam a las soluciones presentadas d
 
 | Nivel                        | Criterios de aceptación                                                                                                                                                                                        | Premio    |
 |------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|
-| Listo para usarse y validado | * Prototipo desplegado en testnet y cerca de mainnet * Se hizo una iteración para probar su propuesta de valor ante los usuarios. * Hace uso de BOS y alguna EVM en su infraestructura para construir su propuesta de valor. | 800 USDC |
-| Desplegado en testnet        | * Prototipo desplegado en testnet. *Tiene un mercado y propuesta de valor definido. * Hace uso de BOS y alguna EVM en su infraestructura para construir su propuesta de valor.                                               | 300 USDC  |
+| Listo para usarse y validado | * Prototipo desplegado en mainnet * Se hizo una iteración para probar su propuesta de valor ante los usuarios. * Hace uso de BOS y alguna EVM en su infraestructura para construir su propuesta de valor. | 800 USDC |
+| Desplegado      | * Prototipo desplegado en mainnet * Tiene un mercado y propuesta de valor definido. * Hace uso de BOS y alguna EVM en su infraestructura para construir su propuesta de valor.                                               | 300 USDC  |
 | Idea y simulación            | *Presenta un simulador (mockup o diseño de UI) que ayude a valorar la idea. * Hace uso de BOS y alguna EVM en su infraestructura para construir su propuesta de valor.                                                     | 100 USDC  |
 
 - Bolsa máxima de premios: 800 USDC

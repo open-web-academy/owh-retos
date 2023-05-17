@@ -32,8 +32,8 @@ El puntaje asignado a las soluciones presentadas durante el evento se evaluarán
 
 | Nivel                        | Criterios de aceptación                                                                                                                                                                                        | Premio    |
 |------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|
-| Listo para usarse y validado | * Prototipo desplegado en testnet y cerca de mainnet * Se hizo una iteración para probar su propuesta de valor ante los usuarios. *Hace uso de BOS y NEAR Protocol dentro de su infraestructura para construir su propuesta de valor.   | 750 USDC |
-| Desplegado en testnet        | * Prototipo desplegado en testnet. *Tiene un mercado y propuesta de valor definido. *Hace uso de BOS y NEAR Protocol dentro de su infraestructura para construir su propuesta de valor.                                              | 300 USDC  |
+| Listo para usarse y validado | * Prototipo desplegado en mainnet * Se hizo una iteración para probar su propuesta de valor ante los usuarios. *Hace uso de BOS y NEAR Protocol dentro de su infraestructura para construir su propuesta de valor.   | 750 USDC |
+| Desplegado       | * Prototipo desplegado en mainnet * Tiene un mercado y propuesta de valor definido. *Hace uso de BOS y NEAR Protocol dentro de su infraestructura para construir su propuesta de valor.                                              | 300 USDC  |
 | Idea y simulación            | *Presenta un simulador (mockup o diseño de UI) que ayude a valorar la idea. *Hace uso de BOS y NEAR Protocol dentro de su infraestructura para construir su propuesta de valor.                                                     | 100 USDC  |
 
 - Bolsa máxima de premios: 750 USDC

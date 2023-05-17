@@ -1,4 +1,4 @@
-# Retos Open Web House Guadalajara 
+# Retos Open Web House Monterrey 2023
 
 ![image|500x500](im/../img/owh-monterrey.jpeg)
 
